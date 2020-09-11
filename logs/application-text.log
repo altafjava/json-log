@@ -1,0 +1,8 @@
+[INFO ] 2020-09-11 22:36:13.116 [main]  c.a.JsonLogApplication - Starting JsonLogApplication on DESKTOP-AGFE6KM with PID 3220 (E:\My Workspace\json-log\target\classes started by altaf in E:\My Workspace\json-log)
+[INFO ] 2020-09-11 22:36:13.125 [main]  c.a.JsonLogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-09-11 22:36:13.622 [main]  c.a.JsonLogApplication - Started JsonLogApplication in 0.856 seconds (JVM running for 1.868)
+[INFO ] 2020-09-11 22:36:13.627 [main] DEMO_IND_PARAM c.a.JsonLogApplication - ---------- Spring Application started successfully ----------
+[INFO ] 2020-09-11 22:36:13.630 [main] DEMO_IND_PARAM c.a.JsonLogApplication - This is an info message.
+[WARN ] 2020-09-11 22:36:13.630 [main] DEMO_IND_PARAM c.a.JsonLogApplication - This is a warn message.
+[ERROR] 2020-09-11 22:36:13.631 [main] DEMO_IND_PARAM c.a.JsonLogApplication - This is an error message.
+[INFO ] 2020-09-11 22:36:13.631 [main] DEMO_IND_PARAM c.a.JsonLogApplication - ---------- Spring Application ended successfully ----------
